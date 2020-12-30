@@ -1,0 +1,45 @@
+#principal{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin: auto;
+
+}
+#formulario{
+	width: 300px;
+	height: auto;
+	overflow: hidden;
+	border: 0px solid #ccc;
+	padding: 5px;
+	float: left
+}
+
+#mapa{
+	width: 500px;
+	height: auto;
+	overflow: hidden;
+	border: 0px solid #ccc;
+	padding: 5px;
+	float: left;
+}
+
+input[type="text"]{
+	border: 1px solid #c1c1c1; padding: 4px;
+	width: 50%;
+}
+
+
+
+
+#form{}
+
+#datos{
+	margin-top: 30px;
+}
+select{
+	font-size: 8pt;
+}
+
+
+
+
